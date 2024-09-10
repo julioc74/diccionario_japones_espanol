@@ -38,22 +38,22 @@
 |           提供                 |              teikyoo           |      oferta, ofrecimiento, suministro, sponsor (de un programa de tv, radio, etc) |
 |           原則                 |              gensoku           |      principio, regla general                                                     |
 |           体調                 |              taichoo           |      condicion física, estado de salud                                            |
-|           阻止                ｜　            soshi             |       obstrucción, obstáculo                                                      |
-|           予期                ｜              yoki              |      expectativa, previsión                                                       |
-|           断水                ｜              dansui            |      suspensión (corte) del servicio de agua potable                              |
-|           断食                ｜              danjiki           |      ayuno                                                                        |
-|           影響                ｜              eikyoo            |      influencia, efecto                                                           |
-|           勘定                ｜              kanjoo            |      cuenta, cálculo (p.e. la cuenta para pagar en un restaurant, tienda, etc)    | 
-|           洗剤                ｜              senzai            |      detergente                                                                   |
-|           縫いぐるみ          ｜　  　　　　　　nuigurumi         |      muñeco de peluche, peluche                                                   |
-|           活用                ｜              katsuyoo          |      aprovechamiento                                                              |
-|           貯金                ｜              chokin            |      depósito, ahorro (en un banco)                                               |
-|           連立                ｜　　          renritsu          |      alianza, coalición                                                           |
-|           知事                ｜              chiji             |      gobernador (de una ciudad)                                                   |
-|           挑戦                ｜              choosen           |      reto, desafío                                                                |
-|           文句                ｜              monku             |      queja; frase, palabra, letra (de una canción)                                |
-|           気候                ｜              kikoo             |      clima                                                                        |
-|           意思                ｜              ishi              |      propósito, intención                                                         |
-|           支援                ｜              shien             |      soporte, ayuda, respaldo                                                     |
-|           事柄                ｜              kotogara          |      asunto, circunstancia                                                        |
-|           証拠                ｜              shooko            |      prueba, evidencia                                                            |           
+|           阻止                 |　            soshi             |       obstrucción, obstáculo                                                      |
+|           予期                 |              yoki              |      expectativa, previsión                                                       |
+|           断水                 |              dansui            |      suspensión (corte) del servicio de agua potable                              |
+|           断食                 |              danjiki           |      ayuno                                                                        |
+|           影響                 |              eikyoo            |      influencia, efecto                                                           |
+|           勘定                 |              kanjoo            |      cuenta, cálculo (p.e. la cuenta para pagar en un restaurant, tienda, etc)    | 
+|           洗剤                 |              senzai            |      detergente                                                                   |
+|           縫いぐるみ           |　  　　　　　　nuigurumi         |      muñeco de peluche, peluche                                                   |
+|           活用                 |              katsuyoo          |      aprovechamiento                                                              |
+|           貯金                 |              chokin            |      depósito, ahorro (en un banco)                                               |
+|           連立                 |　　          renritsu          |      alianza, coalición                                                           |
+|           知事                 |              chiji             |      gobernador (de una ciudad)                                                   |
+|           挑戦                 |              choosen           |      reto, desafío                                                                |
+|           文句                 |              monku             |      queja; frase, palabra, letra (de una canción)                                |
+|           気候                 |              kikoo             |      clima                                                                        |
+|           意思                 |              ishi              |      propósito, intención                                                         |
+|           支援                 |              shien             |      soporte, ayuda, respaldo                                                     |
+|           事柄                 |              kotogara          |      asunto, circunstancia                                                        |
+|           証拠                 |              shooko            |      prueba, evidencia                                                            |           
