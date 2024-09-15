@@ -16,5 +16,13 @@
 |             連ねる            　|         tsuraneru       |                       poner en una fila, unir, colocar juntos                  |
 |            連なる               |         tsuranaru       |            se extiende, va desde (p.e. las montañas van de norte a sur)        |
 |           　減る                |          heru           |                    disminuir, reducirse, desgastarse, bajar                    |
-|            減らす              |          herasu          |                                reducir, disminuir                              |                                              
+|            減らす              |          herasu          |                                reducir, disminuir                              |
+|           吊るす              　|         tsurusu         |                                colgar, suspender                               |
+|           漏れる              　|         moreru          |                                   fuga                                         |
+|           隠す                　|         kakusu          |                  esconder, tapar, cubrir, mantener (un secreto)                |
+|           励む                　|         hagemu          |                               luchar, esforzarse                               |
+|           励ます              　|         hagemasu        |                              alentar, estimular                                |
+|           置く                　|          oku            |                               poner, colocar, dejar                            |
+|           浮かぶ              　|         ukabu           |                 flotar, aparecer, ocurrirsele a alguien (una idea)             |
+
     
