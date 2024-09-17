@@ -38,6 +38,14 @@
 |           込める              　|         komeru          |                   incluir, añadir; cargar (p.e. impuestos)                    |
 |           聴く                　|         kiku            |                                   escuchar                                    |
 |           改める                |         aratameru       |                   renovar, cambiar, reformar, corregir                        |
-|           越える              　|         koeru           |       pasar, atravesar, superar, exceder (p.e. pasar el limite)   
-
+|           越える              　|         koeru           |       pasar, atravesar, superar, exceder (p.e. pasar el limite)               |
+|           潜む                　|         hisomu          |                           acechar, estar al acecho                            |
+|           張る                　|         haru            |               pegar, fijar (con goma, pegamento, etc); tender                 |
+|           張り付ける          　|　　　　haritsukeru       |                  pegar, fijar (con goma, etc)                                 |
+|           掛ける              　|         kakeru          |                                   colgar                                      |
+|           飾る                　|         kazaru          |               decorar, adornar, embellecer; lucir, mostrar                    |
+|           仕舞う              　|         shimau          |                       guardar, poner (algo) en su sitio                       |
+|           知らせる              |         shiraseru       |                               avisar, informar                                |
+|           受ける              　|         ukeru           |                           recibir, presentarse a un examen                    |
+|           逃げる                |         nigeru          |                               huir, escapar                                   |             　                                                                                                                                                                  
     
