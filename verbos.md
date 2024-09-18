@@ -47,5 +47,14 @@
 |           仕舞う              　|         shimau          |                       guardar, poner (algo) en su sitio                       |
 |           知らせる              |         shiraseru       |                               avisar, informar                                |
 |           受ける              　|         ukeru           |                           recibir, presentarse a un examen                    |
-|           逃げる                |         nigeru          |                               huir, escapar                                   |             　                                                                                                                                                                  
+|           逃げる                |         nigeru          |                               huir, escapar                                   |
+|           騒ぐ                　|         sawagu          |                       hacer ruido, alborotar, armar bulla                     |
+|           外す                　|         hazusu          |                 quitar, retirarse de (un lugar), salir de                     |
+|           外れる              　|         hazureru        |                   salirse, soltarse, (p.e. un tornillo), no acertar           |
+|           咲く                　|         saku            |                               florecer                                        |
+|           割く                　|         saku            |                           dedicar, dar                                        |
+|           裂く　　　　　　　　　　|       　saku            |                       rasgar, rajar (p.e. una tela)                           |
+|           裂ける　　　　　　　　　|        sakeru           |                       rasgarse, partirse, rajarse                             |
+|           過ごす                |         sugosu          |          pasar el tiempo (p.e. pasar las vacaciones, en una fiesta, etc)      |
+|       つぶる　つむる　　　　　　　|   tsuburu/ tsumuru      |                              cerrar los ojos                                  |        　 　       　                                                                                                                                                                  
     
