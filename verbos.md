@@ -56,5 +56,21 @@
 |           裂く　　　　　　　　　　|       　saku            |                       rasgar, rajar (p.e. una tela)                           |
 |           裂ける　　　　　　　　　|        sakeru           |                       rasgarse, partirse, rajarse                             |
 |           過ごす                |         sugosu          |          pasar el tiempo (p.e. pasar las vacaciones, en una fiesta, etc)      |
-|       つぶる　つむる　　　　　　　|   tsuburu/ tsumuru      |                              cerrar los ojos                                  |        　 　       　                                                                                                                                                                  
+|       つぶる　つむる　　　　　　　|   tsuburu/ tsumuru      |                              cerrar los ojos                                  | 
+|           繰り上げる          　|         kuriageru       |                adelantar (p.e. la fecha de una reunión, una cita, etc)        | 
+|           繰り返す            　|         kurikaesu       |                             repetir, reiterar                                 |
+|           繰り下げる            |         kurisageru      |                posponer, aplazar, retardar (p.e. una reunión)                 |
+|           勧める                |         susumeru        |               aconsejar, recomendar; alentar, estimular                       |
+|           暮らす                |         kurasu          |                    vivir (p.e. ellos viven con el sueldo de su hijo)          |
+|           暮れる                |         kureru          |                   atardecer, anochecer, terminar el año                       |
+|           壊す                 |　　　　　kowasu          |                                 romper                                         |
+|           壊れる               |          kowareru        |                       romperse, averiarse, estropearse                        |
+|           できます            　|         dekimasu        |               fundarse, construirse (un aeropuerto, estadio, etc)　            |
+|           開く                　|　　　　 hiraku          |                        organizar, abrir, dar, celebrar                         |
+|           かむ                 |          kamu           |                                morder, masticar                                |
+|           通う                　|         kayou          |     frecuentar, ir regularmente a, ir y venir de (por rutina, trabajo, etc)    |
+|           折る                　|         oru            |        doblar, plegar (un papel, cartón); quebrar, partir, fracturar           |
+|           折れる              　|         oreru          |                        partirse, quebrarse, fracturarse                        |    　
+     
+                 　       　 　       　                                                                                                                                                                  
     
