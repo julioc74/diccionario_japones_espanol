@@ -70,7 +70,19 @@
 |           かむ                 |          kamu           |                                morder, masticar                                |
 |           通う                　|         kayou          |     frecuentar, ir regularmente a, ir y venir de (por rutina, trabajo, etc)    |
 |           折る                　|         oru            |        doblar, plegar (un papel, cartón); quebrar, partir, fracturar           |
-|           折れる              　|         oreru          |                        partirse, quebrarse, fracturarse                        |    　
+|           折れる              　|         oreru          |                        partirse, quebrarse, fracturarse                        |
+|           破る                　|         yaburu         |                desgarrar, rasgar; romper, quebrar; vencer                      |
+|           破れる              　|         yabureru       |                                desgarrarse, romperse                           |
+|           敗れる              　|         yabureru       |                        perder, ser vencido, ser derrotado                      |
+|           だます                |         damasu         |                            engañar, embaucar, estafar                          |
+|           与える              　|         ataeru         |                        dar, ofrecer, otorgar, conceder                         |
+|           飼う                　|         kau            |                        criar animales, tener animales                          |
+|           放す                　|         hanasu         |                          soltar, poner en libertad                             |
+|           離す                　|         hanasu         |                                separar, alejar                                 |
+|           申し込む              |        mooshikomu      |                pedir, solicitar, demandar, proponer, inscribirse               |
+|           申し出る            　|        mooshideru      |                    ofrecer, proponer, aplicar, reportar                        |
+|           はかどる            　|         hakadoru       |                        avanzar, progresar, marchar bien                        |            
+    　
      
                  　       　 　       　                                                                                                                                                                  
     
