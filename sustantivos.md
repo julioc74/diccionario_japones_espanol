@@ -57,10 +57,10 @@
 |           支援                 |              shien             |      soporte, ayuda, respaldo                                                     |
 |           事柄                 |              kotogara          |      asunto, circunstancia                                                        |
 |           証拠                 |              shooko            |      prueba, evidencia                                                            |
-|          　対象 　　　　　　　　|　　　　　　　　taishoo           |      objetivo, meta                                                               |
+|           対象 　　　　　　　　 |　　　　　　　　taishoo           |      objetivo, meta                                                               |
 |           対照　　　　　　　　　|　　　　　　　　taishoo           |      contraste, comparacion                                                       |
 |           対称　　　　　　　　　|　　　　　　　　taishoo           |      simetría                                                                     |
-|          　収納　　　　        |　　　　　　　　shuunoo           |      almacenamiento, cosecha, recepción                                           |
+|           収納　　　　         |　　　　　　　　shuunoo           |      almacenamiento, cosecha, recepción                                           |
 |           解体　　　　　　　　　|　　　　　　　　kaitai            |      desmantelamiento (de una máquina), disolución, disección                     |
 |           激怒　　　　　　　　　|　　　　　　　　gekido            |      furia, furia salvaje                                                         |
 |           おやつ　　　　　　　　|　　　　　　　　oyatsu            |      merienda (media tarde)                                                       |
