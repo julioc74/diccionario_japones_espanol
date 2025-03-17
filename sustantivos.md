@@ -56,4 +56,28 @@
 |           意思                 |              ishi              |      propósito, intención                                                         |
 |           支援                 |              shien             |      soporte, ayuda, respaldo                                                     |
 |           事柄                 |              kotogara          |      asunto, circunstancia                                                        |
-|           証拠                 |              shooko            |      prueba, evidencia                                                            |           
+|           証拠                 |              shooko            |      prueba, evidencia                                                            |
+|          　対象 　　　　　　　　|　　　　　　　　taishoo           |      objetivo, meta                                                               |
+|           対照　　　　　　　　　|　　　　　　　　taishoo           |      contraste, comparacion                                                       |
+|           対称　　　　　　　　　|　　　　　　　　taishoo           |      simetría                                                                     |
+|          　収納　　　　        |　　　　　　　　shuunoo           |      almacenamiento, cosecha, recepción                                           |
+|           解体　　　　　　　　　|　　　　　　　　kaitai            |      desmantelamiento (de una máquina), disolución, disección                     |
+|           激怒　　　　　　　　　|　　　　　　　　gekido            |      furia, furia salvaje                                                         |
+|           おやつ　　　　　　　　|　　　　　　　　oyatsu            |      merienda (media tarde)                                                       |
+|           解約　　　　　　　　　|　　　　　　　　kaiyaku           |      cancelación, anulación (de un contrato, acuerdo)                             |
+|           身元　　　　　　　　　|　　　　　　　　mimoto            |      identidad (de una persona), registro personal                                |
+|           代理　　　　　　　　　|　　　　　　　　dairi             |      sustituto, suplente, reemplazante                                            |
+|           代理人　　　　　　　　|　　　　　　　　dairinin          |      representante, apoderado                                                     |
+|　　　　　　単調　　　　　　　　　|　　　　　　　　tanchoo           |      monotonía                                                                    |
+|           媒介　　　　　　　　　|　　　　　　　　baikai            |      mediación, intervención, transmisión, intermediación                         |
+|           油断　　　　　　　　　|　　　　　　　　yudan             |      descuido, falta de atención, negligencia                                     |
+|           緊急　　　　　　　　　|　　　　　　　　kinkyuu           |      urgencia, emergencia, imprevisto                                             |
+|           出版　　　　　　　　　|　　　　　　　　shuppan           |      publicación                                                                  |
+|           当然　　　　　　　　　|　　　　　　　　toozen            |      natural, obvio, lógico                                                       |
+|           意図　　　　　　　　　|　　　　　　　　ito               |      intención, propósito                                                         |
+|           提示　　　　　　　　　|　　　　　　　　teiji             |      presentación, exhibición                                                     |
+|           資格　　　　　　　　　|　　　　　　　　shikaku           |      capacidad, competencia, calificación, requisito, título                      |
+|           逮捕　　　　　　　　　|　　　　　　　　taiho             |      arresto, captura                                                             |
+|           浸水　　　　　　　　　|　　　　　　　　shinsui           |      inundación, sumersión, aniego                                                |
+|           発生　　　　　　　　　|　　　　　　　　hassei            |      generación, producción, aparición, ocurrencia                                |
+|           評価　　　　　　　　　|　　　　　　　　hyooka            |      evaluación                                                                   |　　　  
